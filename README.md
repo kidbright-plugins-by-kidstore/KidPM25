@@ -2,6 +2,8 @@
 
 ปลั๊กอินสำหรับโปรแกรม KidBrightIDE ใช้กับเซ็นเซอร์วัดฝุ่น KidPM2.5
 
+[![เซ็นเซอร์วัดฝุ่น KidPM2.5 สำหรับบอร์ด KidBright](https://img.youtube.com/vi/fgMOZwRFcQk/0.jpg)](https://www.youtube.com/watch?v=fgMOZwRFcQk)
+
 ## การติดตั้ง
 
 กรณีใช้โปรแกรม KidBright IDE (New UI, Plugins beta version) ให้ติดตั้งตามขั้นตอนต่อไปนี้
