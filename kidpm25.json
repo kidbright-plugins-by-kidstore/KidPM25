@@ -3,5 +3,12 @@
 		"en": "KidPM25",
 		"th": "เซ็นเซอร์วัดฝุ่น KidPM25"
 	},
-	"color": 105
+	"color": 105,
+	"title": "KidPM25",
+	"author": "Sonthaya Nongnuch",
+	"description": "วัดฝุ่นด้วยบอร์ด KidBright ผ่าน KidPM2.5 เขียนโปรแกรมแบบบล็อกด้วย KidBrightIDE",
+	"git": "https://github.com/kidbright-plugins-by-kidstore/KidPM25",
+	"image" : "https://store.kidbright.info/upload/cover-image/1563800134-Lku0F8.png",
+	"board": "kidbright",
+	"version": "1.0"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "kidpm25",
+  "title" : "KidPM25",
+  "keywords": "KidPM25",
+  "description": "วัดฝุ่นด้วยบอร์ด KidBright ผ่าน KidPM2.5 เขียนโปรแกรมแบบบล็อกด้วย KidBrightIDE",
+  "homepage": "https://www.ioxhop.com/p/865",
+  "license": "MIT",
+  "git": "https://github.com/kidbright-plugins-by-kidstore/KidPM25",
+  "author": "Sonthaya Nongnuch",
+  "email": "max30012540@hotmail.com",
+  "url": "https://www.ioxhop.com/",
+  "version": "1.0",
+  "board" : "kidbright",
+  "platform": [],
+  "image" : "https://store.kidbright.info/upload/cover-image/1563800134-Lku0F8.png"
+}
